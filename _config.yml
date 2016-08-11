@@ -1,0 +1,28 @@
+name: South East Fire & Safety
+favicon: null
+layout_spectrum: 0.8669156525284052
+typography_spectrum: 0.6419561640359461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6423468226566911
+  lightness: 0.458354625152424
+  saturation: 0.11012729001231492
+  rhythmicContrast: 0.638045376399532
+purpose: []
