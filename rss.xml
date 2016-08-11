@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[South East Fire & Safety]]></title>
         <description><![CDATA[South East Fire & Safety]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/south-east-fire-and-safety/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 13:30:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 13:31:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/south-east-fire-and-safety/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fire protection equipment installation and service.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9aa5114-e916-4097-833c-6f9c8a702366.jpg">]]></description>
+            <link>https://thegrid.ai/south-east-fire-and-safety/fire-protection-equipment-installation-and-service/index.html</link>
+            <guid isPermaLink="false">4048a390-291f-49ff-aaeb-5b8d92b639b0</guid>
+            <pubDate>Thu, 11 Aug 2016 13:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bushfire Attack Assessments ]]></title>
             <description><![CDATA[<article><h1>Bushfire Attack Assessments </h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e43c265-733b-46d6-9598-463dc99fab59.jpg"></article>]]></description>
-            <link>undefinedbushfire-attack-assessments/index.html</link>
+            <link>https://thegrid.ai/south-east-fire-and-safety/bushfire-attack-assessments/index.html</link>
             <guid isPermaLink="false">3d72399f-72c3-4ebe-aebd-7f780bb1f524</guid>
             <pubDate>Thu, 11 Aug 2016 13:30:36 GMT</pubDate>
         </item>
