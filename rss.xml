@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[South East Fire & Safety]]></title>
+        <description><![CDATA[South East Fire & Safety]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 13:30:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bushfire Attack Assessments ]]></title>
+            <description><![CDATA[<article><h1>Bushfire Attack Assessments </h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e43c265-733b-46d6-9598-463dc99fab59.jpg"></article>]]></description>
+            <link>undefinedbushfire-attack-assessments/index.html</link>
+            <guid isPermaLink="false">3d72399f-72c3-4ebe-aebd-7f780bb1f524</guid>
+            <pubDate>Thu, 11 Aug 2016 13:30:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
